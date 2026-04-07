@@ -36,5 +36,13 @@ GET /api/schools/listSchools?latitude=28.7&longitude=77.1
 3. Setup `.env`
 4. Run `npx nodemon server.js`
 
+Note:
+The application is deployed successfully. 
+Database connection is configured locally. 
+For full functionality, connect to a cloud database (MySQL).
+
+##Live Link
+school-api-q409.onrender.com
+
 ## Author
 Tabrej Ansari
